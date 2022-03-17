@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Mar  9 21:10:02 2022
+Invocation: foremost height.png 
+Output directory: /root/EHC/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: height.png
+Start: Wed Mar  9 21:10:02 2022
+Length: 66 KB (67870 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000008.jpg 	      62 KB 	       4121 	 
+1:	00000000.png 	       3 KB 	          0 	  (553 x 1023)
+Finish: Wed Mar  9 21:10:02 2022
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Wed Mar  9 21:10:02 2022
